@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 50%;
+    width: 33%;
 }
 nav ul, footer ul {
     font-family:'Arial', 'Sans-Serif';
@@ -45,7 +45,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1em;
-    line-height: 3em;
+    line-height: 1.1em;
     font-family:'Verdana', 'Arial';
 }
 
