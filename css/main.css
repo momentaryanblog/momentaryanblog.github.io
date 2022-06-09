@@ -12,6 +12,18 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+a.nav:link{
+    background-color: #FFFFFF;
+    color: #191919;
+    display: inline-block;
+    padding: 15px;
+    text-align:center;
+    width: 90px;
+}
+a.nav:hover{
+    color: #191919;
+    background-color: #EDD9DF;
+}
 a {
     text-decoration: none;
     color: #6699FF;
