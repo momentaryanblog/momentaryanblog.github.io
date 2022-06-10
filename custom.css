@@ -1,29 +1,3 @@
-body {
-    margin: 60px auto;
-    width: 33%;
-}
-nav ul, footer ul {
-    font-family:'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: ;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a.nav:link{
-    background-color: #FFFFFF;
-    color: #191919;
-    display: inline-block;
-    padding: 50px;
-    text-align:center;
-    width: 90px;
-}
-a.nav:hover{
-    color: #191919;
-    background-color: #EDD9DF;
-}
 a {
     text-decoration: none;
     color: #6699FF;
