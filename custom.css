@@ -6,11 +6,9 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-family:'Arial', 'Sans-Serif';
     color: #444444;
 }
 h2 {
-    font-family:'Arial', 'Sans-Serif';
     color: #444444;
 }
 p {
@@ -24,7 +22,6 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-
     font-family:'Verdana', 'Arial';
 }
 
