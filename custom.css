@@ -6,21 +6,15 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 1.1em;
     font-family:'Arial', 'Sans-Serif';
     color: #444444;
-    font-weight: bold;
 }
 h2 {
-    font-size: 1em;
     font-family:'Arial', 'Sans-Serif';
     color: #444444;
-    font-weight: bold;
 }
 p {
-    font-size: 0.9em;
     font-family:'Verdana', 'Arial';
-    line-height: 1.5em;
     color: #333333;
 }
 footer {
@@ -30,8 +24,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1em;
-    line-height: 1.1em;
+
     font-family:'Verdana', 'Arial';
 }
 
