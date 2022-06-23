@@ -2,6 +2,12 @@
 layout: default
 title: Blog
 ---
+
+    <div class="container-fluid">
+        
+        <!-- Main column where content goes -->
+        <div class="col">
+	<div clas="row">
 <br>
 <h3>{{ page.title }}</h3>
 	<ul class="posts">
@@ -10,3 +16,6 @@ title: Blog
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li></br>
 	  {% endfor %}
 	</ul>
+	    </div>
+</div>
+</div>
