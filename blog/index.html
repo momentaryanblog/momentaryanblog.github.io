@@ -1,27 +1,49 @@
 ---
 layout: default
 title: Blog
----
-
+--- 
+	    
+	    
+    <!-- Page container -->
     <div class="container-fluid">
         
         <!-- Main column where content goes -->
         <div class="col">
-	<div clas="row">
-		<div class="col">
-		     </div>
-		<div class="col-10">
-<br>
-<h3>{{ page.title }}</h3>
-	<ul class="posts">
 
+            <!-- About section -->
+            <div class="row" id="about">
+
+                <div class="col-3">
+		<br>
+		<!-- Blank -->	
+                </div>
+
+                <div class="col-9">
+                <br>
+		<!-- Blank -->	
+                </div>
+
+            </div>
+
+            <!-- Photography section -->
+            <div class="row">
+		    <div class="col">
+		    </div>
+		    <div class="col-10">
+		    <h3>Blog</h3>
+		    
+		   	<ul class="posts">
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li></br>
 	  {% endfor %}
-	</ul>
-	    </div>
-		<div class="col">
-		</div>
-</div>
-</div>
-</div>
+	</ul>			    
+		    </div>
+		    <div class="col">
+		    </div>
+            </div>
+
+        </div>
+    </div>
+
+    </body>
+</html>
