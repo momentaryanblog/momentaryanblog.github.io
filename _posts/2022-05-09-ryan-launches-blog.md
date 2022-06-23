@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ryan Launches Blog"
+title: "Blog Launches"
 date: 2022-05-09
 ---
 
