@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minimal and simple"
-date: 2022-07-23
+date: 2022-06-23
 ---
 
 By Ryan
