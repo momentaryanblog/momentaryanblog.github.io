@@ -2,8 +2,6 @@
 layout: default
 title: Postings
 --- 
-	    
-	    
     <!-- Page container -->
     <div class="container-fluid">
         
@@ -25,13 +23,12 @@ title: Postings
 
             </div>
 
-            <!-- Photography section -->
             <div class="row">
 		    <div class="col">
 		    </div>
 		    <div class="col-10">
 		    <h3>Postings</h3>
-		    
+		   
 		   	<ul class="posts">
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li></br>
