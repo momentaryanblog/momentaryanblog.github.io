@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minimal and simple"
+title: "To the Point"
 date: 2022-06-23
 ---
 
