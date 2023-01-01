@@ -1,0 +1,47 @@
+---
+layout: default
+title: Momentaryan
+--- 
+	    
+	    
+    <!-- Page container -->
+    <div class="container-fluid">
+        
+        <!-- Main column where content goes -->
+        <div class="col">
+
+            <!-- About section -->
+            <div class="row" id="about">
+
+                <div class="col-3">
+		<br>
+		<!-- Blank -->	
+                </div>
+
+                <div class="col-9">
+                <br>
+		<!-- Blank -->	
+                </div>
+
+            </div>
+
+            <!-- Photography section -->
+            <div class="row">
+		    <div class="col">
+		    </div>
+		    <div class="col-12">
+		    <h3>What I am Doing Now</h3>
+		    
+		    <p>Living in Washington, USA.</p> 
+        <p>Continuing to learn how to be a better dad and husband.</p>
+        <p>Pursuing my MPH while working full-time.</p>
+            </div>
+		    <div class="col"
+			 </div>
+		</div>
+
+        </div>
+    </div>
+
+    </body>
+</html>
