@@ -8,11 +8,15 @@ By Ryan
 
 ---
 
-Lou Gehrig was one of the greatest baseball players. He played in 2,130 consecutive games between 1925 and 1939 and was dubbed the “Iron Horse.” He was an All-Star 7 years in a row, MVP twice, won 6 World Series titles and was a Triple Crown winner. 
+Lou Gehrig was one of the greatest baseball players. He played in 2,130 consecutive games between 1925 and 1939 and was dubbed the "Iron Horse." He was an All-Star 7 years in a row, MVP twice, won 6 World Series titles and was a Triple Crown winner. 
 
-He is also one of the most well-known people to contract amyotrophic lateral sclerosis (ALS). You may also know this as Lou Gehrig’s disease. 
+He is also one of the most well-known people to contract amyotrophic lateral sclerosis (ALS). You may also know this as Lou Gehrig's disease. 
 
-After removing himself from the team lineup and retiring shortly after due to his diminishing strength, the Yankees declared July 4, 1939, to be Lou Gehrig Appreciation Day. On that day, between the games of a doubleheader, he delivered the following speech*: 
+After removing himself from the team lineup and retiring shortly after due to his diminishing strength, the Yankees declared July 4, 1939, to be Lou Gehrig Appreciation Day. On that day, between the games of a doubleheader, he delivered a speech that is well-known to this day. I want to highlight it here because it is an excellent example of someone exemplifying characteristics of stoicism. 
+
+Despite his misfortune, Gehrig emphasizes his life's fortunes and acknowledges others for their impact. 
+
+The speech is included below*:
 
 >“For the past two weeks you have been reading about a bad break. Yet today I consider myself the luckiest man on the face of the earth. I have been in ballparks for seventeen years and have never received anything but kindness and encouragement from you fans.
 >
@@ -30,3 +34,5 @@ This message is an excellent example of one demonstrating tranquility in the fac
 
 * from [lougehrig.com](https://lougehrig.com/)
 
+
+ 
